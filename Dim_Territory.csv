@@ -1,0 +1,7 @@
+TerritoryID,RegionName,Country,Group
+1,North England,England,North
+2,South England,England,South
+3,London & SE,England,South
+4,Midlands,England,Central
+5,Scotland,Scotland,North
+6,Wales,Wales,West

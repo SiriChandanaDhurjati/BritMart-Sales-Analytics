@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Subcategory,ListPrice,StandardCost
+1,Road Bike Pro,Bikes,Road Bikes,1200,720
+2,Mountain Bike X,Bikes,Mountain Bikes,1500,900
+3,Touring Bike,Bikes,Touring Bikes,1100,660
+4,Bike Helmet,Accessories,Helmets,55,22
+5,Water Bottle,Accessories,Bottles,12,4
+6,Bike Gloves,Accessories,Gloves,28,10
+7,Tyre Pump,Accessories,Pumps,35,14
+8,Jersey - Red,Clothing,Jerseys,65,26
+9,Jersey - Blue,Clothing,Jerseys,65,26
+10,Bib Shorts,Clothing,Shorts,80,32
+11,Cycling Cap,Clothing,Caps,22,8
+12,Sport Socks,Clothing,Socks,15,5
+13,Chain Lube,Components,Maintenance,18,6
+14,Brake Cable Set,Components,Brakes,24,9
+15,Saddle Comfort,Components,Saddles,95,45
+16,Handlebar Tape,Components,Handlebars,20,7
+17,Pedals Clip,Components,Pedals,110,55
+18,Front Light,Accessories,Lights,40,16
+19,Rear Light,Accessories,Lights,30,12
+20,Bike Lock,Accessories,Security,45,18
